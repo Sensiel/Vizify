@@ -19,7 +19,7 @@ Please, fill the following sections about your project.
 
 ### Dataset
 
-https://www.kaggle.com/datasets/bsthere/youtube-trending-videos-stats-2026
+[Youtube Trending videos stats 2026](https://www.kaggle.com/datasets/bsthere/youtube-trending-videos-stats-2026)
 
 ### Problematic
 
