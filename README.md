@@ -91,6 +91,18 @@ We are using a newer dataset, we haven't worked with before.
 
 **10% of the final grade**
 
+### Prototype website
+
+The repository now includes a first React + Vite website skeleton for the Milestone 2 prototype with some placeholders to include sketches.
+
+Run locally:
+
+```bash
+npm install
+npm run dev
+```
+
+
 
 ## Milestone 3 (29th May, 5pm)
 
@@ -101,4 +113,3 @@ We are using a newer dataset, we haven't worked with before.
 
 - < 24h: 80% of the grade for the milestone
 - < 48h: 70% of the grade for the milestone
-
