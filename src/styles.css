@@ -170,6 +170,14 @@ select {
 
 /* ─── Hero ──────────────────────────────────────────────── */
 
+.hero-yt-logo {
+  display: block;
+  width: 36px;
+  height: auto;
+  margin-bottom: 20px;
+  fill: var(--accent);
+}
+
 .hero-section {
   display: block;
   padding-top: 64px;
